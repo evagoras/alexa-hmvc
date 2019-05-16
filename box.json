@@ -1,0 +1,57 @@
+{
+    "name":"Alexa ColdBox HMVC framework",
+    "version":"1.0.0",
+    "slug":"alexa-coldbox",
+    "type":"modules",
+    "author":"Evagoras Charalambous",
+    "homepage":"https://github.com/evagoras/alexa-coldbox",
+    "shortDescription":"An Alexa Bootstrap template",
+    "description":"A ColdBox HMVC based template for creating one or more Alexa apps.",
+    "projectURL":"https://github.com/evagoras/alexa-coldbox",
+    "documentation":"",
+    "bugs":"",
+    "changelog":"",
+    "contributors":[],
+    "repository":{
+        "type":"Git",
+        "URL":"https://github.com/evagoras/alexa-coldbox"
+    },
+    "devDependencies":{},
+    "dependencies":{},
+    "installPaths":{},
+    "instructions":"",
+    "ignore":[
+        "**/.*",
+        "/test/",
+        "/tests/"
+    ],
+    "keywords":[],
+    "license":[
+        {
+            "type":"",
+            "URL":""
+        }
+    ],
+    "location":"",
+    "private":false,
+    "scripts":{},
+    "testbox":{
+        "bundles":"",
+        "directory":"tests.specs",
+        "labels":"",
+        "options":{},
+        "recurse":true,
+        "reporter":"",
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "testBundles":"",
+        "testSpecs":"",
+        "testSuites":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    }
+}
